@@ -43,3 +43,6 @@ node app.js delete --title="Note Title"
 - JavaScript
 - npm (Node Package Manager)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
