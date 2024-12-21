@@ -9,14 +9,6 @@ This is a simple notes app built using Node.js. It allows you to create, read, u
 - **Update**: Modify the content of existing notes.
 - **Delete**: Remove unwanted notes.
 
-## Setup
-To use this notes app, follow these steps:
-1. Clone this repository to your local machine.
-2. Make sure you have Node.js installed.
-3. Navigate to the project directory in your terminal.
-4. Run `npm install` to install dependencies.
-5. Start the app by running `node app.js`.
-
 ## Usage
 ### Adding a Note
 To add a new note, use the following command:
